@@ -1,0 +1,14 @@
+no cmd:
+gcc TrabalhoEllen.c -o TrabalhoEllen
+Trabalho.exe dados.txt
+
+no bash:
+gcc arquivo.c -o arquivo
+./arquivo pontos.txt
+
+no Visual Studio Code:
+Exemplo: 
+PS C:\Users\Micro\Documents\C\CodeBlocks\Algoritmos\output> &.\'alg.exe' C:\Users\Micro\Documents\C\CodeBlocks\Algoritmos\dados.txt
+
+Os dados sao os do requisitos, na ordem pra adicionar ou mudar mais facil.
+t N
